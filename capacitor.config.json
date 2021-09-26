@@ -1,0 +1,6 @@
+{
+  "appId": "com.roy.pokepedia",
+  "appName": "pokepedia-svelte-app",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}
