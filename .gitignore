@@ -2,4 +2,6 @@
 /public/build/
 /android/
 
+mad-ionic-app.zip
+capacitor.config.json
 .DS_Store
